@@ -51,7 +51,18 @@
 				"D:/Epic Games/UE_5.5/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Billboard.uasset",
 				"D:/Epic Games/UE_5.5/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Foliage.uasset",
 				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Blueprints/BP_Obstacle.uasset",
-				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Blueprints/WinScreenWidget.uasset"
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Blueprints/WinScreenWidget.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/Targeting/BP_TargetingComponent.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Blueprints/BP_Dummy.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0D/7OMG33YCRJZ662VKK16VMO.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/Targeting/BP_TargetingInterface.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/X6/NOHEYH25ML9X6H7D6QTYIN.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0C/T8T73PFWKRVH5DY1K50LHW.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/D2/745ALGZL8Z2RXRAF3S7545.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Input/Actions/IA_Target.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Input/Actions/IA_TargetLeft.uasset",
+				"C:/Users/dimit/Desktop/Fallen Empire/Fallen-Empire/FallenEmpire/Content/ThirdPerson/Input/Actions/IA_TargetRight.uasset"
 			]
 		}
 	]
